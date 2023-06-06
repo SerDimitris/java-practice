@@ -1,5 +1,7 @@
 package gr.dimitris.java.oop;
 
+import java.rmi.server.ExportException;
+
 public class Account {
 
     private int id;
@@ -72,6 +74,7 @@ public class Account {
 
     //Public API
     /** Deposits a cetain amount of money.
+     *
      * @param amount
      *          the amount of money to be deposited.
      * @throws Exception
@@ -91,14 +94,20 @@ public class Account {
 
     /**
      * Withdraws an amount of money from an account.
+     *
      * @param amount
      *          the amount to be withdrawn.
+     * @param ssn
+     *          the given ssn.
      * @throws Exception
      *          if the amount is greater than
-     *          the balance.
+     *          the balance or the ssn is not valid.
      */
-    public void withdraw(double amount) throws Exception{
+    public void withdraw(double amount, String ssn) throws Exception{
         try{
+            if(!isSsnValid(ssn)){
+                throw new ExportException("Ssn not valid exception.");
+            }
             if (amount > balance){
                 throw new Exception("Insufficient balance exception");
             }
@@ -111,10 +120,26 @@ public class Account {
 
     /**
      * Returns the balance of the account.
+     *
      * @return
      *      the account's balance.
      */
     public double getAccountBalance(){
         return getBalance();
+    }
+
+    /**
+     * Returns the account state in string format.
+     *
+     * @return
+     *      the string-representation of the state of the account.
+     */
+    public String accountToString(){
+        return "(" + id + ", " + iban + ", " + firstname + ", " +
+                lastname + ", " + ssn + ", " + balance + ")";
+    }
+
+    private boolean isSsnValid(String ssn){
+        return this.ssn.equals(ssn);
     }
 }
