@@ -1,20 +1,31 @@
 package gr.cf.bankapp;
 
-import gr.cf.bankapp.model.OverdraftAccount;
 import gr.cf.bankapp.model.JointAccount;
 
+/**
+ * The Main class for the BankApp application.
+ */
 public class Main {
+    /**
+     * The entry point of the application.
+     *
+     * @param args the command line arguments
+     * @throws Exception if an exception occurs during execution
+     */
     public static void main(String[] args) throws Exception {
-        OverdraftAccount overdraftAccount = new OverdraftAccount(1000.0);
-        overdraftAccount.withdraw(50.0);
-        overdraftAccount.withdraw(200.0);
-        System.out.println("Υπόλοιπο λογαριασμού Overdraft: " + overdraftAccount.getBalance());
+        // Create a JointAccount object
+        JointAccount jointAccount1 = new JointAccount(1, "123456789", "John", "Doe", "123-45-6789", 50.0);
 
-        JointAccount jointAccount = new JointAccount(1, "123456789", "John", "Doe", "123-45-6789", 5000.0);
-        jointAccount.withdraw(200.0);
-        jointAccount.withdraw(400.0);
-        jointAccount.deposit(100.0);
-        System.out.println("Υπόλοιπο κοινού λογαριασμού: " + jointAccount.getBalance());
+        // Perform a deposit from the account
+        jointAccount1.deposit(100.0);
+
+        // Perform a withdrawal from the account
+        jointAccount1.withdraw(200.0);
+
+        // Print the new balance of the account
+        System.out.println("New balance: " + jointAccount1.getBalance());
+
+        // Print the account's status
+        System.out.println(jointAccount1.accountToString());
     }
-
 }
