@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"gr.cf.bankapp.model","l":"JointAccount"},{"p":"gr.cf.bankapp","l":"Main"},{"p":"gr.cf.bankapp.model","l":"OverdraftAccount"}]

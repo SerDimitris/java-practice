@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"gr.cf.bankapp"},{"l":"gr.cf.bankapp.model"},{"l":"gr.cf.point"},{"l":"gr.cf.user"},{"l":"gr.dimitris.java"},{"l":"gr.dimitris.java.oop"}]
