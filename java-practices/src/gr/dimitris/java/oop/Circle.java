@@ -1,5 +1,7 @@
 package gr.dimitris.java.oop;
 
+import gr.dimitris.java.oop.point.Point;
+
 /**
  * Aggregation / Composition
  */
