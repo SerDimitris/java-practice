@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2801d7a8-fce5-4a48-8e6c-03e259b11129" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-practices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/bankapp.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/bankapp/Diagram 2023-06-11 17-16-47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/bankapp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/bankapp/model/JointAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/bankapp/model/OverdraftAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/exercises/ExceptionExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/exercises/ExceptionExercise.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/point.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/point/PointXYZ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/point/PointXYZ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/point/PointXYZApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/user.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/user/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/cf/user/UserCredentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/AdderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/ExpressionsApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/IntApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/AccountApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/ArithmeticException2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/ArithmeticExceptionApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/ArrayOutOfBoundsExceptionApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/CodingFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/CodingFactoryLazy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/DriverApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/ImmutablePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/ImmutablePoint3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/model/UserCredentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/point/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/point/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/point/Point3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/dimitris/java/oop/point/main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Qjjg4U0FBUIqWLWtI69x03PkBM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/tutorial-projects/java-practices/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="gr.dimitris.java.oop.point" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gr.cf.bankapp.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RandomIntWriter">
+    <configuration name="ArithmeticException2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.dimitris.java.oop.ArithmeticException2" />
+      <module name="java-practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.dimitris.java.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayOutOfBoundsExceptionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.dimitris.java.oop.ArrayOutOfBoundsExceptionApp" />
+      <module name="java-practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.dimitris.java.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.cf.exercises.ExceptionExercise" />
+      <module name="java-practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.cf.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutPut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.cf.exercises.OutPut" />
+      <module name="java-practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.cf.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomIntWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomIntWriter" />
+      <module name="java-practices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RandomIntWriter" />
+        <item itemvalue="Application.OutPut" />
+        <item itemvalue="Application.ExceptionExercise" />
+        <item itemvalue="Application.ArrayOutOfBoundsExceptionApp" />
+        <item itemvalue="Application.ArithmeticException2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2801d7a8-fce5-4a48-8e6c-03e259b11129" name="Changes" comment="" />
+      <created>1685873995521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685873995521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gr/dimitris/java/oop/ArithmeticExceptionApp.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gr/dimitris/java/oop/ArrayOutOfBoundsExceptionApp.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
